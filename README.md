@@ -8,11 +8,7 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python, SQL, Java, JavaScript, HTML, CSS
-
-**Technologies:** MongoDB, Express.js, Node.js, React.js, Tailwind CSS, Git
-
-**Tools:** Postman, Linux, GitHub
+**Languages:** Python, SQL, Java, JavaScript, HTML, CSS,Bootstrap
 
 ---
 
